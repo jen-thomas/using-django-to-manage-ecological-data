@@ -12,4 +12,4 @@ Although in this presentation we describe our experience of using Django for man
 
 # Questions and to get in touch
 
-We are very excited to use Django applications to help with data entry and managing data. In the realm of ecology (and in science in general, as far as we can tell), it is not very well-known, so we would be very happy to answer any questions. Feel free to get in touch with Carles ([carles@pina.cat](carles@pina.cat)) or Jen ([jen@falciot.net])(jen@falciot.net).
+We are very excited to use Django applications to help with data entry and managing data. In the realm of ecology (and in science in general, as far as we can tell), it is not very well-known, so we would be very happy to answer any questions. Feel free to get in touch with Carles ([carles@pina.cat](carles@pina.cat)) or Jen ([jen@falciot.net](jen@falciot.net)).
